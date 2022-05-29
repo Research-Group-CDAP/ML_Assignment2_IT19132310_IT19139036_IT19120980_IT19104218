@@ -9,18 +9,21 @@ Due to this issue vehicle car sales owners have to be tactful and use targeted a
 
 In this scenario, a classification model which predicts the class/category that a new customer is willing to buy is predicted.  
 
-### Tools & Technologies
+### Video Link 🔗
+https://web.microsoftstream.com/video/9a05693c-6df7-41eb-8995-22dfa76ece71
+
+### Tools & Technologies 🛠
 * Python
 * Jupiter Notebook
 * Scikit Lean
 * GitHub
 
-### Packages
+### Packages 📦
 * Mathplotlib
 * Pandas
 * Numpy
 
-### Members
+### Members 🧑🏻‍💻
 * IT19132310 - Hettiarachchi L.S
 * IT19139036 - Jayadeva A.S.V
 * IT19120980 - Palliyaguruge D.N.
